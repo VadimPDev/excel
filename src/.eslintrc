@@ -12,7 +12,9 @@
         "space-before-blocks":"off",
         "indent":"off",
         "linebreak-style":"off",
+        "quotes":"off",
         "require-jsdoc":"off",
+        "operator-linebreak":"off",
         "eol-last":"off"
     },
     "extends": ["eslint:recommended", "google"]
